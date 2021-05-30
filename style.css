@@ -49,7 +49,7 @@ font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイ�
 }
 
 .selection {
-  background-color: lightcoral;
+  /* background-color: lightcoral; */
   width: 100%;
   height: calc(50vh + 20px);
   background-color: #fff;
@@ -63,7 +63,7 @@ font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイ�
 }
 
 .title {
-  background-color: maroon;
+  /* background-color: maroon; */
   padding-top: 10px;
   padding-bottom: 10px;
 
@@ -71,7 +71,7 @@ font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイ�
 }
 
 .selection-bar {
-    background-color: #757575;
+    /* background-color: #757575; */
     display: inline-block;
     width: 40px;
     height: 2px;
@@ -96,14 +96,14 @@ font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイ�
 }
 
 .soundList {
-  background-color: lawngreen;
+  /* background-color: lawngreen; */
   margin: 0px;
   height: auto;
   width: 50%;
 }
 
 .HeartRateArea{
-  background-color: mediumaquamarine;
+  /* background-color: mediumaquamarine; */
   position: fixed;
   display: flex;
   width: 500px;
@@ -151,7 +151,7 @@ margin-right: 5px;
 }
 
 .soundList-item {
-  background-color: goldenrod;
+  /* background-color: goldenrod; */
   width: 50vw;
   display: flex;
   align-items: center;
@@ -159,7 +159,7 @@ margin-right: 5px;
 }
 
 .soundList-title {
-  background-color: khaki;
+  /* background-color: khaki; */
   font-size: 1rem;
   font-weight: bold;
   display: block;
